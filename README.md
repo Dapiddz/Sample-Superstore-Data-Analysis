@@ -2,6 +2,13 @@
 Exploratory data analysis of Kaggle's Sample Superstore dataset using Python, Pandas, and Seaborn.
 This is my first solo data analysis project , and I'm learning along the way! I used Python to clean, explore, and visualize the data from the Superstore dataset.
 
+# Why I Did This
+I wanted to practice working with a real dataset from start to finish.  
+This project helped me learn how to:
+- Load and clean messy data,
+- Explore trends and patterns,
+- Turn business questions into analysis.
+
 # What I Did :
 - Loaded and explored the dataset
 - Cleaned the data (checked for missing values, renamed columns, converted date columns)
